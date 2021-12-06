@@ -1,0 +1,9 @@
+Festiplace.fr
+Le site reference des festival musicaux en France
+
+Festiplace permet la consultation et l'achat de place pour tout les festivals français.
+Un festival prend place sur une ou plusieurs journées, on peut assister à différents concerts sur différentes scenes.
+Chaque concert met en scène un artiste ou un groupe d'artistes et nécessite un régisseur, des intermittents et une équipe de sécurité.
+Les visiteurs achètent des places valables pour une ou plusieurs journées pour un festival donné.
+Des restaurateurs et des commerçants tiennent des stands sur des emplacements individuels qui sont attribués par jour.
+Les visiteurs d'un même festival peuvent échanger sur un forum contenant un thread par concert, seuls les visiteurs ayant acheté une place donnant accès au concert en question peuvent y publier des posts.
